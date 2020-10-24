@@ -1,0 +1,7 @@
+﻿{
+  "javascript": [
+    "/App_Plugins/ElementTree/elementTree.interceptor.js",
+    "/App_Plugins/ElementTree/content/elementTree.controller.js",
+    "/App_Plugins/ElementTree/content/elementTree.directive.js"
+  ]
+}
